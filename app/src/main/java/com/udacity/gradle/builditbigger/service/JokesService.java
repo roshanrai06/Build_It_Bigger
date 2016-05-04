@@ -11,6 +11,7 @@ import retrofit2.http.GET;
 
 
 public interface JokesService {
+    //Put Remote base URL for to test n remote server
     String REMOTE_BASE_URL = "https://buildbigger-1300.appspot.com/_ah/api/";
     String LOCAL_BASE_URL = "http://localhost:8080/_ah/api/";
     String EMULATOR_BASE_URL = "http://10.0.2.2:8080/_ah/api/";
