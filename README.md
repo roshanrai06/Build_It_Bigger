@@ -19,6 +19,12 @@ GCE module and passes them to the Android Library for display.
 * NormalAd and InterstitialAd only to the free version of the app.
 
 
+## Android Developer Nanodegree
+[![udacity][1]][2]
+
+[1]: ../master/nanodegree-logo.png
+[2]: https://www.udacity.com/course/android-developer-nanodegree--nd801
+
 ## License
 
     Copyright 2016 Roshan Rai
@@ -34,3 +40,4 @@ GCE module and passes them to the Android Library for display.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
