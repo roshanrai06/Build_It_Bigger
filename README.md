@@ -8,7 +8,7 @@ of four modules. A Java library that provides jokes, a Google Could Endpoints
 activity for displaying jokes, and an Android app that fetches jokes from the
 GCE module and passes them to the Android Library for display.
 
-![Build It Bigger - Workflow](../master/art/project_workflow.png)
+![Build It Bigger - Workflow](../master/project_workflow.png)
 
 ## Features 
 
