@@ -15,7 +15,7 @@ GCE module and passes them to the Android Library for display.
 * Free (with ads) and Paid(ads free) Version of app.
 * Java Library for supplying jokes.
 * Android Library to show jokes.
-* Google Clould Endpoints development server configured to supply jokes.
+* Google Cloud Endpoints development server configured to supply jokes.
 * NormalAd and InterstitialAd only to the free version of the app.
 
 
